@@ -11,6 +11,7 @@ This Python code performs image super resolution using deep neural networks in O
 - OpenCV
 - cv2
 - dnn_superres
+- CUDA for faster processing(Requires NVidia Graphics)
 ## 💻 Usage
 *The main steps are:*
 - Initialize DNN super resolution object

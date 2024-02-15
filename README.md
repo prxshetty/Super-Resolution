@@ -1,6 +1,6 @@
 # **Image Enhancement with OpenCV DNN**
 
-This Python code performs image super resolution using deep neural networks in OpenCV.
+This Mini Python code does some image super resolution using DNN in OpenCV. Trying out LapSRN and EDSR with Traditional methods just for the heck of it.
 ## 🚀 Key Features
 - Uses OpenCV's DNN module for image enhancement
 - Supports EDSR and LapSRN models
